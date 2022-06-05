@@ -1,2 +1,2 @@
 # python_basic_programs
-this includes python program to add two numbers
+1.add_2_num: python program to add two numbers
