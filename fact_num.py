@@ -10,6 +10,7 @@ def factorial(num):
 print("factorial of ",num, " is ",factorial(num))
 
 #iterative method
+num=int(input("enter the number to find its factorial\n"))
 i=num
 if(num<0):
     print("factorial of a ",num, " is 0")
