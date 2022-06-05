@@ -22,3 +22,8 @@ else:
         fact=fact*i
         i=i-1
 print("factorial of ",num," is ",fact)
+
+#using factorial built-in function
+import math
+num=int(input("enter the number to find its factorial\n"))
+print(math.factorial(num))
