@@ -9,3 +9,6 @@ else:
     
 #using max function
 print(str(max(num1,num2))+" is bigger")
+
+#using ternary operator
+print(num1 if(num1>num2) else num2)
