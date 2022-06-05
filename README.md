@@ -1,2 +1,3 @@
 # python_basic_programs
-1.add_2_num: python program to add two numbers
+add_2_num: python program to add two numbers
+max_num:
